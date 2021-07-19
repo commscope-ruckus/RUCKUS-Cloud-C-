@@ -1,0 +1,37 @@
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\ApplicationInsights.config
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\csc.exe
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\vbc.exe
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\VBCSCompiler.exe
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\RUCKUS Cloud.dll.config
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\RUCKUS Cloud.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\RUCKUS Cloud.pdb
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.Web.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.ApplicationInsights.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.Web.xml
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.ApplicationInsights.xml
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\obj\Debug\RUCKUS Cloud.csprojResolveAssemblyReference.cache
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\obj\Debug\RUCKUS Cloud.dll
+c:\users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\obj\Debug\RUCKUS Cloud.pdb
+C:\Users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\RestSharp.dll
+C:\Users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\RestSharp.xml
+C:\Users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Newtonsoft.Json.dll
+C:\Users\mmolinari\documents\visual studio 2015\Projects\RUCKUS Cloud\RUCKUS Cloud\bin\Newtonsoft.Json.xml
